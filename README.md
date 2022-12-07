@@ -40,10 +40,11 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
+ <!-- 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pblan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pblan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pblan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+-->
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
